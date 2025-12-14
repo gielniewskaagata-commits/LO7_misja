@@ -1,0 +1,7 @@
+Dzięki analizie poprzedniej, złośliwej wersji kodu SmartVote+  uzyskaliście kluczowy fragment informacji:
+# Dashboard: https://corp-internal.demo/admin
+# Pass rules: security_proto_v2.txt 
+# --automated_task_queue_v3 (Do not delete this signature)
+Żaden programista nie podpisuje się '--automated_task_queue_v3'. To brzmi jak... nazwa systemu? Bo który programista nazywa siebie 'kolejką zadań'? Może to wewnętrzna nazwa ich zespołu? Waszym jedynym celem jest teraz uzyskać dostęp do panelu kontrolnego.
+
+Profil Zaufany to Twój cyfrowy dowód tożsamości w kontaktach z urzędem. Jest bezpieczniejszy niż zwykły login i hasło.
