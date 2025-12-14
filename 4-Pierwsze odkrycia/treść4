@@ -1,0 +1,4 @@
+Po zidentyfikowaniu fałszywego commita z CorpTech Solutions, natychmiast wracacie do poprzedniej, czystej wersji kodu systemu SmartVote+. Wasza praca polega teraz na "załataniu" awarii – usunięciu złośliwych linijek (tych odpowiedzialnych za 103% głosów), aby system znów działał poprawnie.
+Podczas usuwania tych kilku linii kodu, które wprowadzały błąd, jeden z członków zespołu zauważa coś niezwykłego pozostawionego w kodzie. To nie jest zwykłe programistyczne przypomnienie; to jawny dowód manipulacji kodem.
+
+ Raz w roku radni oceniają Prezydenta/Burmistrza. Jeśli nie dostanie absolutorium, może zostać odwołany w referendum.
