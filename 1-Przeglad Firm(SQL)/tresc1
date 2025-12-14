@@ -1,0 +1,11 @@
+Dni w Urzędzie do Spraw Demokracji (UDS-D) zazwyczaj upływają na rutynie. Ostatnie tygodnie to głównie drobne poprawki w algorytmach e-głosowania i standardowe kontrole logów serwerów.
+Wasza grupa programistów otrzymuje dziś zadanie, które ma być częścią tej spokojnej rutyny: przeprowadzenie audytu reputacji wszystkich podmiotów gospodarczych współpracujących z miastem. Przez chwilę panuje cisza, przerywana jedynie szumem wentylatorów serwerów i stukotem klawiszy. Nagle jeden z członków zespołu, siedzący przy centralnym pulpicie analitycznym, zastyga. Na jego twarzy pojawia się zdziwienie, a potem niepokój.
+„Słuchajcie… coś tu się nie zgadza. Dużo się nie zgadza” – mówi cicho, przywołując resztę grupy.
+Wewnętrzny system miejski (DC-Score) wyświetla dla nieznanego podmiotu, nazwanego roboczo "Podmiot X", nieskazitelną ocenę:
+Ocena DC-Score: ⋆5.0/5.0 (IDEALNA)
+Jednak gdy patrzycie na równoległe okno, ściągające dane z krajowej bazy BIP, widzicie ostry kontrast. W sekcji ostrzeżeń firmowych, tuż obok danych identyfikacyjnych Podmiotu X, widnieje wyraźne oznaczenie:
+Ostrzeżenie Krajowe (BIP): „Firma Niebezpieczna” – Podejrzenie Naruszenia Zasad Konkurencji i Transparentności.
+To nie jest zwykła pomyłka w danych. To pierwsza, uderzająca wskazówka, że systemy Demoskratos są celowo manipulowane. Ktoś sprawił, że krajowe ostrzeżenie o „niebezpiecznej” firmie zostało wewnątrz miasta całkowicie wymazane i zastąpione idealną piątką.
+Rutynowy audyt właśnie zmienił się w Operację Demoskratos. Wiecie, że musicie natychmiast ustalić, jaka firmakryje się za Podmiotem X i dlaczego system miejski chroni ją tak agresywnie.
+
+BIP (Biuletyn Informacji Publicznej) to nie dobra wola urzędu, ale obowiązek. Jeśli czegoś tam nie ma, możesz złożyć wniosek o informację publiczną.
